@@ -8,5 +8,5 @@ sayHello();
 function logsHello(name) {
   console.log(`Hello, ${name}!`);
 }
-
+  
 logsHello('Sean')
